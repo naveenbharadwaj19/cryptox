@@ -30,3 +30,11 @@ COINAPI_IO_API_KEY=your_coinapi_io_api_key_here
 
 4. Start the application by running the following command: `flutter run`.
 5. Open your emulator or connect your device and run the app to view the CryptoX application.
+
+----------
+### Screen Grabs 📷:
+<img src="https://user-images.githubusercontent.com/63662884/237049478-fb841541-ab86-481a-bcd7-a47b2f831e00.png" height="700" />
+<img src="https://user-images.githubusercontent.com/63662884/237049460-108ca125-8920-412a-97c9-d32822a943e5.png" height="700" />
+<img src="https://user-images.githubusercontent.com/63662884/237049472-862a32ee-1ac1-4467-ac03-7db3ad3e9547.png" height="700" />
+
+
